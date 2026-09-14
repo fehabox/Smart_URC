@@ -2,8 +2,6 @@
 
 ## 1. What is Smart URC Pro?
 
-https://play.google.com/apps/internaltest/4700536097818201780
-
 @fehabox Smart URC Pro is a universal communication and command-learning
 remote controller for compatible equipment.
 
